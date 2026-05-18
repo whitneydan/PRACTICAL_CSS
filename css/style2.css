@@ -1,0 +1,11 @@
+body{
+    max-height: 120vh;
+    background-color: rgba(128, 11, 245, 0.856);
+}
+
+.banner{
+align-content: center;
+ width: 500px;
+ max-height: 200px;
+ 
+}
